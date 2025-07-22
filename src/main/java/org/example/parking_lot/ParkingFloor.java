@@ -24,3 +24,11 @@ public class ParkingFloor {
         return floorNumber;
     }
 }
+
+
+/*PARKING LOT --> PARK,UNPARK ---> list of floor, payment mode
+        floor->list of spot, floor number, get available spot
+
+
+
+ */
